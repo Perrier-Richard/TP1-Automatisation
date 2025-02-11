@@ -1,0 +1,12 @@
+{
+  "name": "2425-r6.06-maintenance-applicative-tp1-perrier",
+  "version": "1.0.0",
+  "description": "Un TP fait par : PERRIER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
