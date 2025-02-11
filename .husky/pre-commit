@@ -1,1 +1,4 @@
+npm run format
 npx eslint
+# npx changeset status --since=main
+npm run knip
