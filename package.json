@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write .",
     "lint": "eslint",
-    "prepare": "husky"
+    "prepare": "husky",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
@@ -20,5 +21,8 @@
     "husky": "^9.1.7",
     "prettier": "3.5.0",
     "typescript-eslint": "^8.24.0"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4"
   }
 }
